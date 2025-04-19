@@ -1,6 +1,6 @@
 # XKCD Comics Search Microservices System
 
-![Architecture Diagram](./architecture.jpg)
+![Architecture Diagram](architecture.jpg)
 
 ## Проект: Поисковая система комиксов XKCD
 
