@@ -1,0 +1,14 @@
+log_level: DEBUG
+words_address: localhost:81
+update_address: localhost:82
+search_address: localhost:83
+api_server:
+  address: localhost:80
+  timeout: 30s
+auth:
+  admin_user: admin
+  admin_password: password
+  token_ttl: 2m
+  jwt_secret: dKJHSUDNI7b6*E#N(698MFD*#U98398m
+search_rate: 100
+search_concurrency: 10
